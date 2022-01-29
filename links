@@ -1,4 +1,9 @@
+
 DataScience & ML 
+
+Great sessions mutiple topics - 
+https://databricks.com/dataaisummit/north-america-2021/sessions
+
 
 https://www.datasciencecentral.com/profiles/blogs/comprehensive-repository-of-data-science-and-ml-resources
 https://www.datasciencecentral.com/profiles/blogs/what-movies-can-teach-us-about-prospering-in-an-ai-world-part-1
@@ -19,3 +24,75 @@ Panda->
 https://gist.github.com/fabsta/8d5233356618ee7b2e87b84146a33a79
 
 
+Deep learnign links/videos
+https://github.com/Developer-Y/cs-video-courses
+https://deep-learning-drizzle.github.io/index.html#reinf
+
+
+NLP
+Document Information Extraction using OCR and NLP
+https://medium.com/@simsagues/document-information-extraction-using-ocr-and-nlp-2c3caa5a7720
+
+
+Automatic Labeling of Text for NLP
+https://medium.com/algoanalytics/automatic-labelling-of-text-for-nlp-5270e70a2f5f
+
+Template driven
+https://www.google.com/search?q=jordan+neural+network&rlz=1C1CHBF_enIN850IN850&oq=Jordan+neu&aqs=chrome.2.69i57j0l8j46i175i199.4935j0j7&sourceid=chrome&ie=UTF-8
+
+
+
+MLOPS
+https://github.com/eugeneyan/applyingml/tree/main/src/markdown/interviews
+============================================
+AWS Community Builder
+
+MLOPS community
+https://app.slack.com/client/T7FHA770F/C015J2Y9RLM/thread/C015J2Y9RLM-1638366227.203400
+
+==================================
+https://neptune.ai/blog/how-these-8-companies-implement-mlops
+
+
+=====================
+How to build secure MLOPS in AWS
+
+https://github.com/aws-samples/amazon-sagemaker-secure-mlops#clean-up-after-working-with-mlops-project-templates
+
+==================================
+mlrun
+https://www.iguazio.com/open-source/mlrun/
+https://docs.mlrun.org/en/latest/serving/index.html
+===============================
+iguazio
+https://docs.mlrun.org/en/latest/serving/index.html
+https://github.com/mlrun/mlrun
+
+=================
+serverless-ml-pipeline
+https://towardsdatascience.com/the-road-to-a-serverless-ml-pipeline-in-production-part-i-893f3bf0062a
+
+https://towardsdatascience.com/the-road-to-a-serverless-ml-pipeline-in-production-part-ii-e065cf4caa93
+============================
+
+Organize, Track, and Evaluate ML Training Runs With Experiments in Cloud
+AWS->https://www.youtube.com/watch?v=zLOMYKZGxK0
+Azure -> https://docs.microsoft.com/en-us/azure/machine-learning/how-to-track-monitor-analyze-runs?tabs=python
+
+tool evaluation -> https://neptune.ai/blog/best-ml-experiment-tracking-tools#evaluation
+
+https://towardsdatascience.com/ml-models-prototype-to-production-6bfe47973123
+
+Deploy Scalable ML model using AWS Sagemaker
+https://medium.com/theteammavericks/deploy-scalable-ml-model-using-aws-sagemaker-a817e6001034
+
+https://databricks.com/session_na21/infrastructure-agnostic-machine-learning-workload-deployment
+Infrastructure Agnostic Machine Learning Workload Deployment
+
+
+AI Healthcare
+https://algoanalytics.com/healthcare.html
+
+MIT 6.S897 Machine Learning for Healthcare, Spring 2019
+Instructor: David Sontag
+https://www.youtube.com/playlist?list=PLUl4u3cNGP60B0PQXVQyGNdCyCTDU1Q5j
