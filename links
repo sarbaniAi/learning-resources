@@ -1,4 +1,4 @@
-good blog comanies
+good blog companies
 https://medium.com/artefact-engineering-and-data-science/serving-ml-models-at-scale-using-mlflow-on-kubernetes-a83390718a92
 AWS< GCP, AZURE , H20, neptune.ai, algoanalytics
 
@@ -97,9 +97,38 @@ https://databricks.com/session_na21/infrastructure-agnostic-machine-learning-wor
 Infrastructure Agnostic Machine Learning Workload Deployment
 
 
+Serving ML models at scale using Mlflow on Kubernetes
+https://medium.com/artefact-engineering-and-data-science/serving-ml-models-at-scale-using-mlflow-on-kubernetes-bf27258775e7
+https://medium.com/artefact-engineering-and-data-science/serving-ml-models-at-scale-using-mlflow-on-kubernetes-7a85c28d38e
+https://medium.com/artefact-engineering-and-data-science/serving-ml-models-at-scale-using-mlflow-on-kubernetes-a83390718a92
+
+more from this company - mlops
+https://medium.com/artefact-engineering-and-data-science
+
+
 AI Healthcare
 https://algoanalytics.com/healthcare.html
 
 MIT 6.S897 Machine Learning for Healthcare, Spring 2019
 Instructor: David Sontag
 https://www.youtube.com/playlist?list=PLUl4u3cNGP60B0PQXVQyGNdCyCTDU1Q5j
+
+NLP
+https://nlpoverview.com/
+
+Medium resources
+https://medium.com/dair-ai by  https://www.linkedin.com/in/omarsar/
+
+
+Coursera lecture notes -
+https://www.coursera.org/learn/deploying-machine-learning-models-in-production/home/welcome  -> MLOPS opensource architecture , exmaple deployment with github code
+https://community.deeplearning.ai/t/mlep-course-4-lecture-notes/54456
+
+
+QUICKSIGHT - Freshdesk intgration
+https://aws.amazon.com/blogs/compute/analyzing-freshdesk-data-using-amazon-eventbridge-and-amazon-athena/
+
+How to build a data analytics pipeline
+https://media-exp1.licdn.com/dms/document/C561FAQEUWMpMqJZo1w/feedshare-document-pdf-analyzed/0/1644378198338?e=1644472800&v=beta&t=2ljQ9BBOQvyfNJSo6MQGGSenRvKWqy-E0GE8VRzgHIU
+
+ 
