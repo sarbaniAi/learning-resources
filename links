@@ -66,6 +66,17 @@ How to build secure MLOPS in AWS
 
 https://github.com/aws-samples/amazon-sagemaker-secure-mlops#clean-up-after-working-with-mlops-project-templates
 
+
+MLOPS Security
+
+Secure and compliant machine learning workflows with Amazon SageMaker
+https://sagemaker-workshop.com/security_for_users.html
+https://www.youtube.com/watch?v=HlSEUvApDZE
+
+Building Secure Machine Learning Environments Using Amazon SageMaker - AWS Online Tech Talks
+https://www.youtube.com/watch?v=txr6CR87GXI
+
+
 ==================================
 mlrun
 https://www.iguazio.com/open-source/mlrun/
