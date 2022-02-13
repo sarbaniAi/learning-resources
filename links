@@ -2,6 +2,16 @@ good blog companies
 https://medium.com/artefact-engineering-and-data-science/serving-ml-models-at-scale-using-mlflow-on-kubernetes-a83390718a92
 AWS< GCP, AZURE , H20, neptune.ai, algoanalytics
 
+AWS Labs
+https://sagemaker-workshop.com/introduction.html
+https://sagemaker.readthedocs.io/en/v2.16.2/overview.html
+
+
+AZURE Labs
+https://docs.microsoft.com/en-us/azure/machine-learning/
+https://github.com/microsoft/hol-azure-machine-learning
+https://gallery.azure.ai/Collection/Introduction-to-Machine-Learning-with-Hands-On-Labs-1
+https://www.azuredevopslabs.com/labs/vstsextend/aml/
 
 DataScience & ML 
 
@@ -67,7 +77,7 @@ How to build secure MLOPS in AWS
 https://github.com/aws-samples/amazon-sagemaker-secure-mlops#clean-up-after-working-with-mlops-project-templates
 
 
-MLOPS Security
+MLOPS Security in AWS
 
 Secure and compliant machine learning workflows with Amazon SageMaker
 https://sagemaker-workshop.com/security_for_users.html
@@ -75,6 +85,9 @@ https://www.youtube.com/watch?v=HlSEUvApDZE
 
 Building Secure Machine Learning Environments Using Amazon SageMaker - AWS Online Tech Talks
 https://www.youtube.com/watch?v=txr6CR87GXI
+
+AZURE Security
+https://docs.microsoft.com/en-us/security/benchmark/azure/baselines/machine-learning-security-baseline
 
 
 ==================================
@@ -142,4 +155,8 @@ https://aws.amazon.com/blogs/compute/analyzing-freshdesk-data-using-amazon-event
 How to build a data analytics pipeline
 https://media-exp1.licdn.com/dms/document/C561FAQEUWMpMqJZo1w/feedshare-document-pdf-analyzed/0/1644378198338?e=1644472800&v=beta&t=2ljQ9BBOQvyfNJSo6MQGGSenRvKWqy-E0GE8VRzgHIU
 
+ Fraud Detection Autoclaim
+ https://youtu.be/WU0-B1tCKz0
  
+github code 
+https://github.com/aws/amazon-sagemaker-examples/blob/main/end_to_end/fraud_detection/0-AutoClaimFraudDetection.ipynb
