@@ -73,14 +73,17 @@ https://neptune.ai/blog/how-these-8-companies-implement-mlops
 
 =====================
 How to build secure MLOPS in AWS
-
 https://github.com/aws-samples/amazon-sagemaker-secure-mlops#clean-up-after-working-with-mlops-project-templates
 
+AWS Blog - how to build secure ML enviroenment
+https://aws.amazon.com/blogs/machine-learning/building-secure-machine-learning-environments-with-amazon-sagemaker/
 
 MLOPS Security in AWS
 
 Secure and compliant machine learning workflows with Amazon SageMaker
 https://sagemaker-workshop.com/security_for_users.html
+https://sagemaker-workshop.com/security_for_sysops/security_overview.html
+
 https://www.youtube.com/watch?v=HlSEUvApDZE
 
 Building Secure Machine Learning Environments Using Amazon SageMaker - AWS Online Tech Talks
