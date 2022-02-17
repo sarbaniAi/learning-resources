@@ -5,7 +5,7 @@ AWS< GCP, AZURE , H20, neptune.ai, algoanalytics
 AWS Labs
 https://sagemaker-workshop.com/introduction.html
 https://sagemaker.readthedocs.io/en/v2.16.2/overview.html
-
+https://wellarchitectedlabs.com/well-architectedtool/
 
 AZURE Labs
 https://docs.microsoft.com/en-us/azure/machine-learning/
@@ -31,6 +31,8 @@ https://towardsdatascience.com/the-data-science-landscape-f6f7842c9865
 
 Python power ->
 https://github.com/vinta/awesome-python
+
+
 
 Cheatsheet
 
@@ -155,9 +157,21 @@ https://community.deeplearning.ai/t/mlep-course-4-lecture-notes/54456
 QUICKSIGHT - Freshdesk intgration
 https://aws.amazon.com/blogs/compute/analyzing-freshdesk-data-using-amazon-eventbridge-and-amazon-athena/
 
+Policy : https://docs.aws.amazon.com/quicksight/latest/user/iam-policy-examples.html
+
+VPC - https://docs.aws.amazon.com/quicksight/latest/user/vpc-setup-for-quicksight.html
+
+Sharing Dashboard : https://docs.aws.amazon.com/quicksight/latest/user/sharing-a-dashboard.html
+
+Cost dashboard - https://catalog.us-east-1.prod.workshops.aws/workshops/fd889151-38aa-4fe2-a29d-d5fa557197bb/en-US/intro
+
+Quicksight Lab : https://zacks.one/aws-quicksight-lab/#3
+
+Cloud CUR Dasboard - https://catalog.us-east-1.prod.workshops.aws/workshops/fd889151-38aa-4fe2-a29d-d5fa557197bb/en-US/prerequisites
+
 How to build a data analytics pipeline
 https://media-exp1.licdn.com/dms/document/C561FAQEUWMpMqJZo1w/feedshare-document-pdf-analyzed/0/1644378198338?e=1644472800&v=beta&t=2ljQ9BBOQvyfNJSo6MQGGSenRvKWqy-E0GE8VRzgHIU
-
+=============================================================================
  Fraud Detection Autoclaim
  https://youtu.be/WU0-B1tCKz0
  
