@@ -80,6 +80,10 @@ https://github.com/aws-samples/amazon-sagemaker-secure-mlops#clean-up-after-work
 AWS Blog - how to build secure ML enviroenment
 https://aws.amazon.com/blogs/machine-learning/building-secure-machine-learning-environments-with-amazon-sagemaker/
 
+github:setup and deployment of Amazon SageMaker Studio into a private VPC and implementation of multi-layer security controls, 
+such as data encryption,network traffic monitoring and restriction, usage of VPC endpoints, subnets and security groups, IAM resource policies.
+https://github.com/aws-samples/amazon-sagemaker-studio-vpc-networkfirewall
+
 MLOPS Security in AWS
 
 Secure and compliant machine learning workflows with Amazon SageMaker
