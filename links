@@ -5,7 +5,10 @@ AWS< GCP, AZURE , H20, neptune.ai, algoanalytics, https://cohere.ai/pricing
 MLP Large model
 http://jalammar.github.io/applying-large-language-models-cohere/
 
-AWS Labs
+AWS Labs 
+Sagemaker Immersion Day - pipeline, onference  and others..
+https://catalog.us-east-1.prod.workshops.aws/workshops/63069e26-921c-4ce1-9cc7-dd882ff62575/en-US/lab7#overview
+
 https://sagemaker-workshop.com/introduction.html
 https://sagemaker.readthedocs.io/en/v2.16.2/overview.html
 https://wellarchitectedlabs.com/well-architectedtool/
