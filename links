@@ -348,3 +348,17 @@ https://github.com/sedflix/awesome-topic-segmentation
 
 Mental health ML - Using machine learning-based analysis for behavioral differentiation between anxiety and depression
 https://www.nature.com/articles/s41598-020-72289-9
+
+Healthcare AI ML github projects
+
+MIMIC-Extract:A Data Extraction, Preprocessing, and Representation Pipeline for MIMIC-III
+https://github.com/MLforHealth/MIMIC_Extract
+
+Healthcare AI ML Data mining & data quality
+https://github.com/hurcy/awesome-ehr-deeplearning#visualization
+
+NER and Relation Extraction from Electronic Health Records (EHR).
+https://github.com/smitkiri/ehr-relation-extraction
+
+Healthcare AI Add a description, image, and links to the electronic-health-records topic page so that developers can more easily learn about it.
+https://github.com/topics/electronic-health-records
