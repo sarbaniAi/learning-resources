@@ -419,7 +419,7 @@ girhub: https://github.com/abrarmajeedi/BERT-based-medical-text-de-identificatio
 mental health git hub
 https://github.com/kharrigian/mental-health-datasets
 
-Data ingestion data sync data replication data analytics
+Data ingestion data sync data replication data analytics | how to pre process 1 TB data?
 Kafka AWS
 https://confluent.awsworkshop.io/1.introduction.html
 
@@ -433,3 +433,12 @@ New – Data Parallelism Library in Amazon SageMaker Simplifies Training on Larg
 https://stackoverflow.com/questions/49372161/aws-sagemaker-very-large-dataset
 https://aws.amazon.com/blogs/aws/managed-data-parallelism-in-amazon-sagemaker-simplifies-training-on-large-datasets/
 https://github.com/aws/amazon-sagemaker-examples/blob/main/advanced_functionality/data_distribution_types/data_distribution_types.ipynb
+https://stackoverflow.com/questions/64263330/data-preprocessing-on-aws-sagemaker#new-answer
+
+
+S3 upload - faster for high volume data
+
+https://docs.aws.amazon.com/AmazonS3/latest/userguide/transfer-acceleration.html
+
+optimize performance when I upload large files to Amazon S3?
+https://aws.amazon.com/premiumsupport/knowledge-center/s3-upload-large-files/
