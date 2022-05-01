@@ -419,6 +419,17 @@ girhub: https://github.com/abrarmajeedi/BERT-based-medical-text-de-identificatio
 mental health git hub
 https://github.com/kharrigian/mental-health-datasets
 
-
+Data ingestion data sync data replication data analytics
 Kafka AWS
 https://confluent.awsworkshop.io/1.introduction.html
+
+Introducing Amazon MSK Connect – Stream Data to and from Your Apache Kafka Clusters Using Managed Connectors
+https://aws.amazon.com/blogs/aws/introducing-amazon-msk-connect-stream-data-to-and-from-your-apache-kafka-clusters-using-managed-connectors/
+
+
+
+New – Data Parallelism Library in Amazon SageMaker Simplifies Training on Large Datasets, high volume data processing
+
+https://stackoverflow.com/questions/49372161/aws-sagemaker-very-large-dataset
+https://aws.amazon.com/blogs/aws/managed-data-parallelism-in-amazon-sagemaker-simplifies-training-on-large-datasets/
+https://github.com/aws/amazon-sagemaker-examples/blob/main/advanced_functionality/data_distribution_types/data_distribution_types.ipynb
