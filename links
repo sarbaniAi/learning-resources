@@ -445,3 +445,6 @@ https://docs.aws.amazon.com/AmazonS3/latest/userguide/transfer-acceleration.html
 
 optimize performance when I upload large files to Amazon S3?
 https://aws.amazon.com/premiumsupport/knowledge-center/s3-upload-large-files/
+
+AWS Data Migration Service (DMS) // MySQL to S3 - Migrate first tiem and then replicate real time
+https://www.youtube.com/watch?v=qx2Ij_Bhj4Q
