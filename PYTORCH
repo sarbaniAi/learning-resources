@@ -1,0 +1,47 @@
+
+
+PYTORCH
+
+𝐀𝐰𝐞𝐬𝐨𝐦𝐞 PyTorch 𝐓𝐮𝐭𝐨𝐫𝐢𝐚𝐥𝐬 𝐟𝐨𝐫 𝐃𝐞𝐞𝐩 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐑𝐞𝐬𝐞𝐚𝐫𝐜𝐡𝐞𝐫𝐬 - 𝐃𝐨𝐧'𝐭 𝐦𝐢𝐬𝐬 𝐢𝐭 𝐭𝐨 𝐞𝐱𝐩𝐥𝐨𝐫𝐞.
+🔗 GitHub: https://lnkd.in/dyWYtHVM
+
+𝐖𝐡𝐲 𝐜𝐡𝐨𝐨𝐬𝐞 𝐩𝐲𝐭𝐨𝐫𝐜𝐡?
+===============
+🔹Pytorch is similar to TensorFlow.
+🔹Dynamic Approach to graph computation
+🔹Faster Deep learning training than TensorFlow.
+🔹Increase Developer Productivity.
+🔹Easier to learn and simple to code.
+🔹Big Community of focused Developers.
+🔹Simplicity and Transparency.
+🔹Easy to Debug.
+🔹Data Parallelism - My Personal Favorites' thing in Pytorch
+
+🛫 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐈𝐧𝐝𝐞𝐱 : 🛫
+===============
+1. Basics
+🔸 PyTorch Basics - https://lnkd.in/dYn2trP3
+🔸 Linear Regression - https://lnkd.in/dZJ4g_Ju
+🔸 Logistic Regression - https://lnkd.in/d2x7j5QM
+🔸 Feedforward Neural Network - https://lnkd.in/dwQ7zB-D
+
+2. Intermediate
+🔸 Convolutional Neural Network - https://lnkd.in/dT5X9H2S
+🔸 Deep Residual Network - https://lnkd.in/dBTHS_8A
+🔸 Recurrent Neural Network - https://lnkd.in/dupXtXmP
+🔸 Bidirectional Recurrent Neural Network - https://lnkd.in/dDWHHHSG
+🔸 Language Model (RNN-LM) - https://lnkd.in/d4n5h3tK
+
+3. Advanced
+🔸 Generative Adversarial Networks - https://lnkd.in/dBZHtGir
+🔸 Variational Auto-Encoder - https://lnkd.in/d-Mgri_G
+🔸 Neural Style Transfer - https://lnkd.in/df9Saray
+🔸 Image Captioning (CNN-RNN) - https://lnkd.in/d8r4ncVE
+
+4. Utilities
+🔸 TensorBoard in PyTorch - https://lnkd.in/dPp3TzJz
+
+
+
+Sentiment Analysis with Deep Learning using BERT (PyTorch)
+https://www.coursera.org/projects/sentiment-analysis-bert
