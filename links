@@ -527,3 +527,47 @@ https://chaimrand.medium.com/
 
 BERT
 https://towardsdatascience.com/from-pre-trained-word-embeddings-to-pre-trained-language-models-focus-on-bert-343815627598
+
+
+
+===================================
+✈️ Introducing Deepchecks - Tests for Continuous Validation of ML Models & Data 🛫🛫
+
+$ pip install deepchecks -U --user
+
+🔹 Deepchecks is a Python package for comprehensively validating your machine-learning models and data with minimal effort.
+
+🔹 This includes checks related to various types of issues, such as model performance, data integrity, distribution mismatches, and more.
+
+ML Code Examples :
+〰️〰️〰️〰️〰️
+👉🏽 Train-Test Validation Quickstart (loans data) - https://bit.ly/3TjeJpp
+👉🏽 Data Integrity Quickstart (avocado sales data) - https://bit.ly/3CUEjtw
+👉🏽 Model Evaluation Quickstart (wine quality data)- https://bit.ly/3EZDYsl
+
+It's also available for Computer Vision :
+
+Computer Vision Code Example:
+〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
+👉🏽 Simple Image Classification Tutorial (for data without model) - https://bit.ly/3yYipEL
+👉🏽 Classification Tutorial - https://bit.ly/3grp7Nd
+👉🏽 Object Detection Tutorial - https://bit.ly/3CTd4Qk
+👉🏽 Semantic Segmentation Tutorial - https://bit.ly/3z0sMrL
+
+🙋🏼 When Should You Use Deepchecks?
+🛫 While you’re in the research phase and want to validate your data, find potential methodological problems, and/or validate your model and evaluate it.
+
+📊 Which Types of Checks Exist?
+📑 Tabular Data Checks: https://lnkd.in/dZvSKbM3
+👽 Computer vision Checks: https://lnkd.in/d9wsAHV8
+
+❓ What Do You Need in Order to Start?
+Depending on your phase and what you wish to validate, you’ll need a subset of the following:
+👉🏽 Raw data (before pre-processing such as OHE, string processing, etc.), with optional labels
+👉🏽 The model’s training data with labels
+👉🏽 Test data (which the model isn’t exposed to) with labels
+👉🏽 A supported model that you wish to validate, including: scikit-learn, XGBoost, PyTorch, and more.
+For tabular data models see supported models, for more details about the supported model API(https://bit.ly/3DdT3Fw).
+For Computer Vision, we currently support the PyTorch framework. See Data Classes: https://bit.ly/3yYBjLw to understand how to integrate your data.
+
+======================================
