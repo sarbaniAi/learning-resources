@@ -26,3 +26,25 @@
 
 📝 Rethinking Learning Approaches for Long Term Action Anticipation: https://lnkd.in/dyM3Y77c
 🎲 Code: https://lnkd.in/dJs6GwhX
+
+
+
+Image Segmentation by Sayak Paul
+Segmentation is an important use case in computer vision. To help the community deliver amazing custom segmentation models, 
+we have developed full-length fine-tuning tutorials for segmentation in both TensorFlow and PyTorch.
+We also provide a separate dataset loading guide for semantic segmentation 👉
+
+https://huggingface.co/docs/datasets/semantic_segmentation
+It shows how to use the 🤗 Datasets library along with `albumentations` to prepare your segmentation datasets for training
+Check out the comments of this post for links to the resources that we offer on segmentation 🤗
+We have a separate task page on segmentation to help you navigate across all the compatible datasets and models we have on the 🤗 Hub:
+
+https://huggingface.co/tasks/image-segmentation
+
+PyTorch Notebook: https://github.com/huggingface/notebooks/blob/main/examples/semantic_segmentation.ipynb
+
+TensorFlow Notebook: https://github.com/huggingface/notebooks/blob/main/examples/semantic_segmentation-tf.ipynb
+
+Finally, if you're looking to scalably deploy your SegFormer models, then this guide from Philipp Schmid is a great starting point:
+https://www.philschmid.de/image-segmentation-sagemaker
+
