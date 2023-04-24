@@ -99,3 +99,27 @@ Code https://lnkd.in/gTezhGXD
 Google sheet + Chatgpt
 https://www.linkedin.com/pulse/get-power-chatgpt-your-spreadsheets-docs-allie-k-miller/?trackingId=jLfcG%2BD4WLCnvU9s65KXNg%3D%3D
 
+
+
+========================
+New release to FastChat 🎉
+
+FastChat is an open platform for training, serving, and evaluating large language model-based chatbots. The platform includes the Vicuña - an open-source chatbot based on Python created by a team of researchers from UC Berkeley, CMU, Stanford, and UC San Diego.
+
+Version 0.2.3 was released this week with an awesome feature - Chatbot Arena that enables performance comparison between a variety of open-source LLMs. That includes the following LLMs:
+✅ Vicuna: a chat assistant fine-tuned from LLaMA on user-shared conversations.
+✅ Koala: a chatbot fine-tuned from LLaMA on user-shared conversations and open-source datasets.
+✅ OpenAssistant (oasst): a chat-based assistant for everyone.
+✅ Dolly: an instruction-tuned open LLM by Databricks.
+✅ ChatGLM: an open bilingual dialogue language model
+✅ StableLM: Stability AI language models.
+✅ Alpaca: a model fine-tuned from LLaMA on 52K instruction-following demonstrations.
+✅ LLaMA: open and efficient foundation language models.
+
+License: Apache 2.0 🦄
+
+Resources 📚
+➡️ Source code: https://lnkd.in/gicRTnxv
+➡️ Demo: https://chat.lmsys.org/
+➡️ Release notes: https://lnkd.in/gdzBs44Y
+======================================
