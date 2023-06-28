@@ -34,3 +34,22 @@ Awesome Multimodal LLMs
 
 If you want to find recent multimodal LLM papers, this is a great place to start.
 https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models
+
+
+
+28-June
+𝐎𝐩𝐭𝐢𝐦𝐢𝐳𝐢𝐧𝐠 𝐋𝐋𝐌 𝐢𝐧𝐟𝐞𝐫𝐞𝐧𝐜𝐞 𝐭𝐢𝐦𝐞 𝐰𝐢𝐭𝐡𝐨𝐮𝐭 𝐫𝐞𝐭𝐫𝐚𝐢𝐧𝐢𝐧𝐠
+One of the most useful articles I have seen lately. Everyone is talking about using LLM locally but no one is really saying about how to infer in production-realistic time. Well here you are.
+
+NOTE: I have left out some of the points which would require retraining the model, as finetuning with adapters - LoRA - QLoRA
+
+▪️ Use LitGPT to make things easier. https://lnkd.in/dED4yPbT;
+▪️ Brain 16-bits, or mixed 16 bits precision (or Brain 16 mixed precision). Here you need to consider the memory usage - inference time tradeoff which is impacted by the type of precision you use.
+▪️ Post-training Quantization
+▪️ LLM pruning (LLM-Pruner or Wanda)
+▪️ Batch size dynamic adaptation for batch processing (using vLLM: https://lnkd.in/d45NNH6c or Text Generation Inference: https://lnkd.in/dhBnkyYW)
+▪️ For less memory - more GPUs. For fastest inference, less GPUs.
+
+📜https://lnkd.in/divhyqVP
+
+
